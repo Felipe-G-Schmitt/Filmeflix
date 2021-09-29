@@ -9,19 +9,29 @@
 }
 
 .titulo_i h1{
-
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(143, 0, 0);
 }
-
-.aves_i h1{
-
-} 
 
 .aves_i img{
-    width: 200px;
+    width: 300px;
     height: auto;
+    margin-left: 0px;
+    position: fixed;
+    margin-top: 20px;
 }
 
-.borda_aves_i {
-    border: 2px black;
-    border-radius: 8px;
+.aves_i p{
+    margin-left: 100px;
+    position: fixed;
+    color: rgb(175, 175, 175);
+}
+
+.border_aves_i {
+    border: 5px solid rgb(151, 151, 151);
+    border-style: inset;
+    margin-right: 0px;
+    padding-bottom: 430px;
+    margin-left: 500px;
+    margin-right: 1100px;
 }
