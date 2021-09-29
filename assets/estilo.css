@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clear {
+    clear: both;
+}
+
+.titulo_i h1{
+
+}
+
+.aves_i h1{
+
+} 
+
+.aves_i img{
+    width: 200px;
+    height: auto;
+}
+
+.borda_aves_i {
+    border: 2px black;
+    border-radius: 8px;
+}
