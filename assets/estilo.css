@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: grey;
 }
 
 .clear {
@@ -24,4 +25,35 @@
 .borda_aves_i {
     border: 2px black;
     border-radius: 8px;
+}
+
+.filmeflix{
+    font-size: 40px;
+    padding-left: 750px;
+}
+
+.pequeno{
+    padding-left: 330px;
+    font-size: 20px;
+}
+
+.arriet{
+    width: 200px;
+    float: left;
+}
+
+.linha{
+    width: 100%;
+    clear: both;
+}
+
+.squad{
+    padding-left: 330px;
+    font-size: 20px;
+    
+}
+
+.rapina{
+    padding-left: 330px;
+    font-size: 20px;
 }
