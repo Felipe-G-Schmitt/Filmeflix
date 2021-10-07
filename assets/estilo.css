@@ -48,6 +48,7 @@
     margin-right: 1300px;
     background-color: rgb(102, 102, 102);
     box-shadow: -15px 15px 10px rgb(0, 0, 0); 
+    border-radius: 0px 20px 0px 0px;
 }
 
 .esquadrao img{
@@ -72,6 +73,7 @@
     margin-top: -445px;
     padding-left: 20px;
     box-shadow: -15px 15px 10px rgb(0, 0, 0); 
+    border-radius: 0px 20px 0px 0px;
 }
 
 .mundo img{
@@ -96,6 +98,7 @@
     margin-top: -445px;
     padding-left: 20px;
     box-shadow: -15px 15px 10px rgb(0, 0, 0); 
+    border-radius: 0px 20px 0px 0px;
 }
 
 .filmeflix{
