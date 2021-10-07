@@ -13,6 +13,18 @@
     color: rgb(143, 0, 0);
 }
 
+.header_i {
+    background-color: gray;
+    padding-bottom:100px ;
+    margin-bottom: 150px;
+}
+
+.header_i h1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 900px;
+}
+
 .aves_i img{
     width: 300px;
     height: auto;
@@ -28,13 +40,14 @@
 }
 
 .border_aves_i {
-    border: 5px solid rgb(151, 151, 151);
-    border-style: inset;
+    border: 3px solid rgb(63, 63, 63);
+    border-style: solid;
     margin-right: 0px;
     padding-bottom: 10px;
     margin-left: 300px;
     margin-right: 1300px;
     background-color: rgb(102, 102, 102);
+    box-shadow: -15px 15px 10px rgb(0, 0, 0); 
 }
 
 .esquadrao img{
@@ -49,8 +62,8 @@
 }
 
 .border_esquadrao_i {
-    border: 5px solid rgb(151, 151, 151);
-    border-style: inset;
+    border: 3px solid rgb(63, 63, 63);
+    border-style: solid;
     margin-right: 0px;
     padding-bottom: 10px;
     margin-left: 1300px;
@@ -58,6 +71,7 @@
     background-color: rgb(102, 102, 102);
     margin-top: -445px;
     padding-left: 20px;
+    box-shadow: -15px 15px 10px rgb(0, 0, 0); 
 }
 
 .mundo img{
@@ -72,8 +86,8 @@
 }
 
 .border_mundo_i {
-    border: 5px solid rgb(151, 151, 151);
-    border-style: inset;
+    border: 3px solid rgb(63, 63, 63);
+    border-style: solid;
     margin-right: 0px;
     padding-bottom: 10px;
     margin-left: 800px;
@@ -81,6 +95,7 @@
     background-color: rgb(102, 102, 102);
     margin-top: -445px;
     padding-left: 20px;
+    box-shadow: -15px 15px 10px rgb(0, 0, 0); 
 }
 
 .filmeflix{
@@ -112,4 +127,11 @@
 .rapina{
     padding-left: 330px;
     font-size: 20px;
+}
+
+.footer_i{
+    background-color: gray;
+    padding-top: 80px;
+    margin-top: 161px;
+    text-align: center;
 }
