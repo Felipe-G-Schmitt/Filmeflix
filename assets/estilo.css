@@ -107,29 +107,72 @@
 }
 
 .pequeno{
-    padding-left: 330px;
+    width: 50%;
+    display: block;
     font-size: 20px;
+    float: center;
+    margin-left: 350px;
+    margin-top: -140px;
 }
 
 .arriet{
-    width: 200px;
-    float: left;
+    width: 325px;
+    /* float: left; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-style: solid;
+    background-color: rgb(102, 102, 102);
+    box-shadow: -20px 15px 30px rgb(0, 0, 0); 
+    border-radius: 0px 20px 0px 0px;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.aves_d{
+    width: 325px;
+    /* float: left; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-style: solid;
+    background-color: rgb(102, 102, 102);
+    box-shadow: -20px 15px 30px rgb(0, 0, 0); 
+    border-radius: 0px 20px 0px 0px;
+    margin-left: 15px;
+    display: inline-block;
+    margin-top: 0px;
 }
 
 .linha{
     width: 100%;
     clear: both;
+    padding-bottom: 100px;
+    display:block;
+}
+
+.linha img{
+    display: block;
 }
 
 .squad{
-    padding-left: 330px;
+    padding-left: 0px;
     font-size: 20px;
-    
+    width: 50%;
+    display: block;
+    float: center;
+    margin-left: 350px;
+    margin-top: -340px;
 }
 
 .rapina{
-    padding-left: 330px;
+    padding-left: 0px;
     font-size: 20px;
+    width: 50%;
+    display: block;
+    float: center;
+    margin-left: 350px;
+    margin-top: -340px;
 }
 
 .footer_i{
