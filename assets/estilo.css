@@ -191,3 +191,15 @@
     margin-right: 500px;
     padding-bottom: 10px;
 }
+
+.texto2{
+    padding-top: 300px;
+    text-align: center;
+}
+
+.tiulo2 h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(105, 0, 119)
+    
+}
