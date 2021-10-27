@@ -192,6 +192,7 @@
     padding-bottom: 10px;
 }
 
+<<<<<<< HEAD
 .texto2{
     padding-top: 300px;
     text-align: center;
@@ -202,4 +203,128 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(105, 0, 119)
     
+=======
+.login{
+    z-index: 50;
+    float: left;
+    margin-left: -800px;
+}
+.login a{
+    text-decoration: none;
+    color: black;
+}
+
+.index_link{
+    z-index: 50;
+    float: left;
+    margin-left: -800px;
+}
+
+.index_link a{
+    text-decoration: none;
+    color: black;
+}
+
+.login_link{
+    float: left;
+    margin-left: -695px;
+}
+
+.login_link a{
+    text-decoration: none;
+    color: black;
+}
+
+.registro_login{
+    border: 3px solid black;
+    background-color: rgb(63, 63, 63);
+    margin-left: 38%;
+    margin-right: 38%;
+    margin-top: -50px;
+    text-align: center;
+    padding-right: 0px;
+    padding-bottom: 80px;
+}
+
+.borda_cadastro{
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: rgb(63, 63, 63);
+    margin-left: 39%;
+    margin-right: 37%;
+    margin-top: -90px;
+    text-align: justify;
+    padding-left: 25px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+}
+
+.txtnome{
+    font-size: 1.5em;
+    padding-top: 15px;
+}
+
+.txtnome input{
+    padding-right: 210px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: black solid 3px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.txtusuario{
+    font-size: 1.5em;
+    padding-top: 25px;
+}
+
+.txtusuario input{
+    padding-right: 208px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: black solid 3px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.txtemail{
+    font-size: 1.5em;
+    padding-top: 25px;
+}
+
+.txtemail input{
+    padding-right: 208px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: black solid 3px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.txtsenha{
+    font-size: 1.5em;
+    padding-top: 25px;
+}
+
+.txtsenha input{
+    padding-right: 208px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: black solid 3px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.button_cadastro button{
+    float: center;
+    padding-left: 177px;
+    padding-right: 177px;
+    text-align: center;
+    font-size: 18px;
+    background-color: rgb(0, 131, 0);
+    border: solid 3px rgb(0, 65, 0);
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+>>>>>>> b8dc40e71c66661827bc672391665c76aaa27de0
 }
