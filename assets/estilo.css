@@ -382,3 +382,12 @@
     color: rgb(216, 216, 216);
 }
 
+.filmeflix{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: rgb(105, 0, 119);
+        
+}
+
+td,th{
+    padding-left: 60px;
+}
