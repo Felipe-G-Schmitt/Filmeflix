@@ -275,6 +275,7 @@
 .txtnome{
     font-size: 1.5em;
     padding-top: 15px;
+    color: rgb(216, 216, 216);
 }
 
 .txtnome input{
@@ -289,6 +290,7 @@
 .txtusuario{
     font-size: 1.5em;
     padding-top: 25px;
+    color: rgb(216, 216, 216);
 }
 
 .txtusuario input{
@@ -303,6 +305,7 @@
 .txtemail{
     font-size: 1.5em;
     padding-top: 25px;
+    color: rgb(216, 216, 216);
 }
 
 .txtemail input{
@@ -317,6 +320,7 @@
 .txtsinopse{
     font-size: 1.5em;
     padding-top: 25px;
+    color: rgb(216, 216, 216);
 }
 
 .txtsinopse textarea{
@@ -333,6 +337,7 @@
 .txtsenha{
     font-size: 1.5em;
     padding-top: 25px;
+    color: rgb(216, 216, 216);
 }
 
 .txtsenha input{
@@ -374,4 +379,6 @@
 
 .checkbox {
     font-size: 22px;
+    color: rgb(216, 216, 216);
 }
+
