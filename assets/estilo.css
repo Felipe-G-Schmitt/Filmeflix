@@ -24,6 +24,18 @@
     margin-left: 900px;
 }
 
+.header_m{
+        background-color: black;
+        padding-bottom:100px ;
+        margin-bottom: 150px;
+}
+
+.header_m h1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 900px;
+}
+
 .aves_i img{
     width: 300px;
     height: auto;
@@ -180,6 +192,23 @@
     margin-top: 132px;
     padding-bottom: 169px;
     text-align: center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+}
+
+.footer_m{
+    background-color: black;
+    margin-top: 132px;
+    padding-bottom: 169px;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    bottom: -50;
+    height: 100px;
+    width: 100%;
 }
 
 .texto{
@@ -390,4 +419,25 @@
 
 td,th{
     padding-left: 60px;
+}
+
+.lista_filme{
+    float: left;
+    margin-left: -617px;
+}
+
+.lista_filme a{
+    text-decoration: none;
+    color: black;
+}
+
+.login_l{
+        z-index: 50;
+        float: left;
+        margin-left: -617px;
+}
+
+.login_l a{
+    text-decoration: none;
+    color: black;
 }
