@@ -441,3 +441,13 @@ td,th{
     text-decoration: none;
     color: black;
 }
+
+.text_exib_film{
+    float: right;
+    margin-right: -920px;
+    margin-top: 0px;
+}
+
+.exib_filme{
+    margin-top: -60px;
+}
