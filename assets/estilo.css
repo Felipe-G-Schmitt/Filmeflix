@@ -451,3 +451,19 @@ td,th{
 .exib_filme{
     margin-top: -60px;
 }
+
+.bug1{
+    color: white;
+    padding-left: 105px;
+    margin-top: 50px;
+}
+
+.report{
+    float: right;
+    margin-right: -300px;
+    margin-top: -150px;
+}
+
+.button_env_l{
+    color: green;
+}
