@@ -418,7 +418,8 @@
 }
 
 td,th{
-    padding-left: 60px;
+    padding-left: 20px;
+    margin-right: 150px;
 }
 
 .lista_filme{
@@ -427,6 +428,48 @@ td,th{
 }
 
 .lista_filme a{
+    text-decoration: none;
+    color: black;
+}
+
+.developers{
+    float: left;
+    margin-left: -435px;
+}
+
+.developers a{
+    text-decoration: none;
+    color: black;
+}
+
+.problemas_i{
+    float: left;
+    margin-left: 645px;
+}
+
+.problemas_i a{
+    text-decoration: none;
+    color: black;
+}
+
+.Cadastro_i{
+    float: left;
+    margin-left: 305px;
+    margin-top: -28px;
+}
+
+.Cadastro_i a{
+    text-decoration: none;
+    color: black;
+}
+
+.cadastro_filme{
+    float: left;
+    margin-left: 420px;
+    margin-top: -28px;
+}
+
+.cadastro_filme a{
     text-decoration: none;
     color: black;
 }
