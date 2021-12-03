@@ -264,6 +264,46 @@
     color: black;
 }
 
+.mostrar_filme{
+    float: left;
+    margin-left: -435px;
+}
+
+.mostrar_filme a{
+    text-decoration: none;
+    color: black;
+}
+
+.principal_link{
+    float: left;
+    margin-left: -435px;
+}
+    
+.principal_link a{
+    text-decoration: none;
+    color: black;
+}
+
+.desenvolvedores_link{
+    float: left;
+    margin-left: -215px;
+}
+
+.desenvolvedores_link a{
+    text-decoration: none;
+    color: black;
+}
+
+.reportar_link{
+    float: left;
+    margin-left: -25px;
+}
+
+.reportar_link a{
+    text-decoration: none;
+    color: black;
+}
+
 .registro_login{
     border: 3px solid black;
     background-color: rgb(63, 63, 63);
@@ -460,10 +500,23 @@ td,th{
 
 .report{
     float: right;
-    margin-right: -300px;
+    margin-right: -350px;
     margin-top: -150px;
 }
 
 .button_env_l{
     color: green;
+    font-size: 1.1em;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button_report{
+    padding-left: 964px;
+}
+.doc {
+    background-color: rgb(179, 179, 179);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 6px;
 }
