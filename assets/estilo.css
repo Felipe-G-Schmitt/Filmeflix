@@ -304,6 +304,16 @@
     color: black;
 }
 
+.problemas_link{
+    float: left;
+    margin-left: 5px;
+}
+
+.problemas_link a{
+    text-decoration: none;
+    color: black;
+}
+
 .registro_login{
     border: 3px solid black;
     background-color: rgb(63, 63, 63);
@@ -319,7 +329,7 @@
     border: 3px solid black;
     border-radius: 15px;
     background-color: rgb(63, 63, 63);
-    margin-left: 39%;
+    margin-left: 38%;
     margin-right: 37%;
     margin-top: -90px;
     text-align: justify;
@@ -562,4 +572,34 @@ td,th{
     text-align: center;
     padding-top: 10px;
     padding-bottom: 6px;
+}
+
+.cadastro_filme_link{
+    float: left;
+    margin-left: -584px;
+}
+
+.cadastro_filme_link a{
+    text-decoration: none;
+    color: black;
+}
+
+.empregos_link{
+    float: left;
+    margin-left: 10px;
+}
+
+.empregos_link a{
+    text-decoration: none;
+    color: black;
+}
+
+.lista_empregos_link{
+    float: left;
+    margin-left: 8px;
+}
+
+.lista_empregos_link a{
+    text-decoration: none;
+    color: black;
 }
